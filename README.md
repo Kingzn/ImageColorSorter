@@ -135,3 +135,15 @@ MVP版本（已完成 - 原型阶段）
  模板系统
  云端同步
  协作分享
+
+
+
+ 推荐技术栈
+ 前端框架: React 18 + Vite
+状态管理: Zustand
+UI样式: Tailwind CSS + Headless UI
+颜色处理: node-vibrant + chroma.js
+Canvas: Fabric.js（高级操作）
+存储: IndexedDB + localStorage
+导出: modern-screenshot
+部署: Vercel/Netlify
